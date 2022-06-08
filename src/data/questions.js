@@ -506,7 +506,7 @@ export const questions = [
         answer: 3
     },
     {
-        question: 'Vai ierobežotas pieejamības informācija automātiski var mainīt savu statusu un kļūt par vispārpieejamo informāciju?',
+        question: 'Kura ir tīkla slāņa protokolu datu vienība?',
         choices: [
             {
                 'id': 0,
