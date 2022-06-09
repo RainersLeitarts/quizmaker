@@ -261,7 +261,7 @@ export const questions = [
                 'choice' : 'etc'
             }
         ],
-        answer: 0
+        answer: 3
     },
     {
         question: 'Kurš ir tīkla protokols, kas nodrošina IP adreses noteikšanu, izmantojot tīkla adaptera MAC adresi?',
